@@ -1,0 +1,6 @@
+{
+  "name": "LifeShield: Health & Personal Finance Support",
+  "description": "A secure mobile-first companion to organize health concerns, manage insurance and personal finances, track wellness, and connect with verified support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
